@@ -1,0 +1,13 @@
+C:\Users\nvrsk\Desktop\1\проект1\проект1\bin\Debug\проект1.exe.config
+C:\Users\nvrsk\Desktop\1\проект1\проект1\bin\Debug\проект1.exe
+C:\Users\nvrsk\Desktop\1\проект1\проект1\bin\Debug\проект1.pdb
+C:\Users\nvrsk\Desktop\1\проект1\проект1\obj\Debug\проект1.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\1\проект1\проект1\obj\Debug\проект1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nvrsk\Desktop\1\проект1\проект1\obj\Debug\проект1.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\1\проект1\проект1\obj\Debug\проект1.exe
+C:\Users\nvrsk\Desktop\1\проект1\проект1\obj\Debug\проект1.pdb
+C:\Users\nvrsk\Desktop\С# Ри\1 индивидуальное\проект1\obj\Debug\проект1.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\С# Ри\1 индивидуальное\проект1\obj\Debug\проект1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nvrsk\Desktop\С# Ри\1 индивидуальное\проект1\obj\Debug\проект1.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\С# Ри\1 индивидуальное\проект1\obj\Debug\проект1.exe
+C:\Users\nvrsk\Desktop\С# Ри\1 индивидуальное\проект1\obj\Debug\проект1.pdb
